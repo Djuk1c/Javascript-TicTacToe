@@ -68,6 +68,6 @@ body{
 }
 
 .o::after{
-    content: '○';
-    font-size: 160px;
+    content: '〇';
+    font-size: 110px;
 }

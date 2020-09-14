@@ -75,7 +75,7 @@ const handleCellClick = (e) =>
     {
         classList.add('x');
         xIsNext = !xIsNext
-        statusDiv.innerHTML = "○'s next";
+        statusDiv.innerHTML = "o's next";
     }
     else
     {
